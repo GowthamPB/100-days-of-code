@@ -28,13 +28,13 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
-**Day 0:August 6th 2021**
+**Day 0 : August 6th 2021**
 
 Starting the #100DaysOfCode challenge from tomorrow
 
-**Day 1: August 7th 2021**
+**Day 1 : August 7th 2021**
 
-**Today's Progress**:Learnt about Git and Github by watching a tutorial by Kunal Kushwaha on Youtube
+**Today's Progress** : Learnt about Git and Github by watching a tutorial by Kunal Kushwaha on Youtube
 
-**Thoughts:** I really struggled with doing some work and achieving progress...I will definitely try to improve tomorrow
+**Thoughts :** I really struggled with doing some work and achieving progress...I will definitely try to improve tomorrow
 
