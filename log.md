@@ -1,4 +1,5 @@
 # 100 Days Of Code - Log
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -32,15 +33,21 @@
 
 Starting the #100DaysOfCode challenge from tomorrow
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Day 1 : August 7th 2021**
 
 **Today's Progress** : Learnt about Git and Github by watching a tutorial by Kunal Kushwaha on Youtube
 
 **Thoughts :** I really struggled with doing some work and achieving progress...I will definitely try to improve tomorrow
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Day 2 : August 8th 2021**
 
 **Today's Progress** : Completed git and github tutorial and completed watching two videos from the DSA course by Kunal Kushwaha
 
 **Thoughts :** Learnt a lot more when compared to day1...but still a long way to go and a lot more to improve....all in all a good day :)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
