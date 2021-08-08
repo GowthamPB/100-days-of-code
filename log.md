@@ -38,3 +38,9 @@ Starting the #100DaysOfCode challenge from tomorrow
 
 **Thoughts :** I really struggled with doing some work and achieving progress...I will definitely try to improve tomorrow
 
+**Day 2 : August 8th 2021**
+
+**Today's Progress** : Completed git and github tutorial and completed watching two videos from the DSA course by Kunal Kushwaha
+
+**Thoughts :** Learnt a lot more when compared to day1...but still a long way to go and a lot more to improve....all in all a good day :)
+
