@@ -51,3 +51,13 @@ Starting the #100DaysOfCode challenge from tomorrow
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Day 3 : August 9th 2021**
+
+**Today's Progress** : Was only able to work on my portfolio project for a short amount of time
+
+**Thoughts :** Didn't do much work cause of exams....but still need to improve with managing time
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
