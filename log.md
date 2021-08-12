@@ -67,6 +67,21 @@ Starting the #100DaysOfCode challenge from tomorrow
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Day 5 : August 11th 2021**
+
+**Today's Progress** : Worked on my portfolio project for a short amount of time
+
+**Thoughts :** Didn't do much cause of exams
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 6 : August 12th 2021**
+
+**Today's Progress** : Worked on my portfolio project(Almost done)
+
+**Thoughts :** Happy with the results achieved today
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
