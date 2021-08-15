@@ -90,7 +90,9 @@ Starting the #100DaysOfCode challenge from tomorrow
 **Thoughts :** Portfolio website is done but still need to make it a lot more nice and responsive.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+
 TOOK ONE DAY BREAK ON AUGUST 14th
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Day 8 : August 15th 2021**
