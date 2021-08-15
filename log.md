@@ -83,7 +83,21 @@ Starting the #100DaysOfCode challenge from tomorrow
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Day 7 : August 13th 2021**
 
+**Today's Progress** : Freecodecamp's "Respnsive web design" certification done.
 
+**Thoughts :** Portfolio website is done but still need to make it a lot more nice and responsive.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+TOOK ONE DAY BREAK ON AUGUST 14th
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 8 : August 15th 2021**
+
+**Today's Progress** : Just watched one DSA video and started with the odin project once again
+
+**Thoughts :** Still need to improve with managing my time...planning to start #60dayofdsa from tomorrow
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
