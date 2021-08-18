@@ -107,7 +107,6 @@ TOOK ONE DAY BREAK ON AUGUST 16th
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 **Day 9 : August 17th 2021**
 
 **Today's Progress** : Just watched one DSA video and started with solving couple of problems.
@@ -116,5 +115,11 @@ TOOK ONE DAY BREAK ON AUGUST 16th
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Day 10 : August 18th 2021**
 
+**Today's Progress** : Solved 10 small assignment questions from 2-first-java video of community classroom.
+
+**Thoughts :** Solved good number of dsa questions...but still need to improve with managing my time
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
