@@ -123,3 +123,11 @@ TOOK ONE DAY BREAK ON AUGUST 16th
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Day 11 : August 19th 2021**
+
+**Today's Progress** :Saw commclassroom's video on conditional loops. Solved my first leetcode problem :)
+
+**Thoughts :** Eventhough I solved just one question....I am really happy as it's my first leetcode problem :) 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
