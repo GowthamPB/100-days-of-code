@@ -147,7 +147,7 @@ TOOK ONE DAY BREAK ON AUGUST 16th
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Day 14 : August 23st 2021**
+**Day 14 : August 23rd 2021**
 
 **Today's Progress** :Solved 6 assignment questions from community classroom + Attended UI/UX session
 
@@ -155,7 +155,7 @@ TOOK ONE DAY BREAK ON AUGUST 16th
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Day 15 : August 26st 2021**
+**Day 15 : August 26th 2021**
 
 **Today's Progress** :Solved 1 assignment questions from community classroom
 
