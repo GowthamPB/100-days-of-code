@@ -146,3 +146,20 @@ TOOK ONE DAY BREAK ON AUGUST 16th
 **Thoughts :** Need to manage time :(
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 14 : August 23st 2021**
+
+**Today's Progress** :Solved 6 assignment questions from community classroom + Attended UI/UX session
+
+**Thoughts :** Need to manage time :(
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 15 : August 26st 2021**
+
+**Today's Progress** :Solved 1 assignment questions from community classroom
+
+**Thoughts :** Really really really need to manage time :(
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
