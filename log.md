@@ -163,3 +163,52 @@ TOOK ONE DAY BREAK ON AUGUST 16th
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Day 16 : August 28th 2021**
+
+**Today's Progress** :Solved 2 assignment questions from community classroom
+
+**Thoughts :** Really really really need to manage time :(
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 17 : August 29th 2021**
+
+**Today's Progress** :Solved 1 assignment questions from community classroom
+
+**Thoughts :** Really really really need to manage time :(
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 18 : August 26th 2021**
+
+**Today's Progress** :Saw one dsa video from Community Classroom and solved a couple of dsa questions + I always had some doubts regarding flexbox...so used flexbox froggy to understand it
+
+**Thoughts :** Got some amount of work done
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 19 : September 4th 2021**
+
+**Today's Progress** :Studied about grid in grid garden
+
+**Thoughts :** Grid concepts still not so clear
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 20 : September 5th 2021**
+
+**Today's Progress** :Started with javascript in the odin project
+
+**Thoughts :** FINALYYYYYYYYYYYYYY STARTED WITH JAVASCRIPT!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 21 : September 6th 2021**
+
+**Today's Progress** :Fundamentals 1 of javascript completed in the odin project
+
+**Thoughts :** Really really really need to manage time :(
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
