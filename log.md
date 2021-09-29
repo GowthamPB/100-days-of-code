@@ -211,4 +211,104 @@ TOOK ONE DAY BREAK ON AUGUST 16th
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Day 22 : September 13th 2021**
+
+**Today's Progress** :Started with Fundamentals 2 of javascript in the odin project
+
+**Thoughts :** Really really really need to manage time :(
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 23 : September 14th 2021**
+
+**Today's Progress** : Completed Fundamentals 2 of javascript in the odin project
+
+**Thoughts :** Really really really need to manage time :(
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 24 : September 16th 2021**
+
+**Today's Progress** : Started with Fundamentals 3 of javascript in the odin project
+
+**Thoughts :** Really really really need to manage time :(
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+**Day 25 : September 17th 2021**
+
+**Today's Progress** :Continued with Fundamentals 3 of javascript in the odin project
+
+**Thoughts :** Really really really need to manage time :(
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 26 : September 18th 2021**
+
+**Today's Progress** :Completed Fundamentals 3 of javascript in the odin project
+
+**Thoughts :** Really really really need to manage time :(
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 27 : September 20th 2021**
+
+**Today's Progress** : Completed problem solving in javascript
+
+**Thoughts :** Really really really need to manage time :(
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 28 : September 25th 2021**
+
+**Today's Progress** : Completed rock papers scissors assignment
+
+**Thoughts :** Really really really need to manage time :(
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 29 : September 27th 2021**
+
+**Today's Progress** : Started Fundamentals 4 of javascript in the odin project
+
+**Thoughts :** Really really really need to manage time :(
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 30 : September 28th 2021**
+
+**Today's Progress** : Completed arrays and loops in javascript
+
+**Thoughts :** Really really really need to manage time :(
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 31 : September 29th 2021**
+
+**Today's Progress** : Completed basics of Test driven development
+
+**Thoughts :** Really really really need to manage time :(
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--**Day 32 : September 30th 2021**
+
+**Today's Progress** :Fundamentals 1 of javascript completed in the odin project
+
+**Thoughts :** Really really really need to manage time :(
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Day 33 :  October 1st 2021**
+
+**Today's Progress** :Fundamentals 1 of javascript completed in the odin project
+
+**Thoughts :** Really really really need to manage time :(
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-->
+
+
 
